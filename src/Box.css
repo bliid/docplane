@@ -1,0 +1,30 @@
+.h1_colomn2 {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 33.8px;
+    color: rgb(255, 255, 255);
+  }
+  .h2_colomn2 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.2px;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .img_relative {
+    width: 400px;
+    height: auto;
+    right: -100px;
+    bottom: 0px;
+    position: absolute;
+  }
+  #country_select {
+    background-color: white;
+    font-size: 12px;
+    color: #444;
+    height: 40px;
+    width: 150px;
+    padding: 0 3.5em 0 1.5em;
+    border: 1px solid #aaa;
+    box-shadow: 0 1px 0 1px rgba(0, 0, 0, 0.04);
+    border-radius: 0.5em;
+  }

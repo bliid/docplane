@@ -1,0 +1,31 @@
+.section_container {
+    width: 50%;
+  }
+  .section_container > div {
+    padding: 10px;
+  }
+  .section_container > div > div {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    height: 100%;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin: 12px 0px;
+  
+    font-weight: 300;
+    line-height: 31.2px;
+  
+    color: rgb(0, 179, 155);
+  }
+  .icon_4div {
+    width: 40px;
+    height: auto;
+    padding-top: 20px;
+  }

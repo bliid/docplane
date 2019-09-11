@@ -1,0 +1,14 @@
+.li_logo {
+    width: 20px;
+    height: auto;
+    padding-right: 5px;
+  }
+  .a_list {
+    text-decoration: none;
+    color: #ababab;
+    font-size: 25px;
+  }
+  .a_list :hover {
+    color: #5bc0a6;
+  }
+  

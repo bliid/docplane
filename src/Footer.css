@@ -1,0 +1,32 @@
+
+.small {
+    max-width: 1025px;
+    margin: auto;
+  }
+  
+  
+  
+  
+  
+  
+  
+  /* FOOTER */
+  footer {
+    border-top: 1px solid #eef2f2;
+    margin-top: 80px;
+  }
+  footer p {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.6px;
+  
+    color: rgb(171, 171, 171);
+  }
+  footer p a {
+    text-decoration: none;
+  }
+  
+  /**/
+  
+  

@@ -1,0 +1,25 @@
+
+.Section1 {
+    max-width: 1025px;
+    margin: auto;
+  }
+
+  .inner {
+    margin-top: 33px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #first_section {
+    flex-direction: column;
+  }
+  #first_section > h1 {
+    margin: 34px 0px;
+  }
+  
+  #first_section > div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }

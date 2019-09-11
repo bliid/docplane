@@ -1,0 +1,42 @@
+
+.Section2 {
+    max-width: 1025px;
+    margin: auto;
+  }
+/* SECOND SECTION*/
+#secend_section {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+  
+  #div_2column_1 {
+    padding: 10px;
+    width: 50%;
+  }
+  #div_2column_1 div {
+    padding: 22px 40px 0px;
+    position: relative;
+    overflow: hidden;
+    background-color: #62cdb2;
+    border-radius: 10px;
+    height: 100%;
+  }
+  #div_2column_2 {
+    padding: 10px;
+    width: 50%;
+  }
+  #div_2column_2 div {
+    padding: 22px 40px 0px;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    background-color: #3d83df;
+    min-height: 400px;
+    height: 100%;
+  }
+
+
+  
+
+  

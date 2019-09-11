@@ -1,0 +1,39 @@
+.contain_image {
+    padding: 10px;
+  }
+  .contain_image > div:hover {
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+  }
+  .contain_image > div {
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.03);
+  }
+  
+  .contain_image > div > a {
+    text-decoration: none;
+  }
+  .image_conatained {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .content {
+    padding: 20px;
+    font-size: 18px;
+    text-align: start;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: #747474;
+  }
+  
+  .content span {
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: rgb(61, 131, 223);
+    color: white;
+  }
+  .content > span:hover {
+    background-color: rgb(30, 98, 198);
+  }
