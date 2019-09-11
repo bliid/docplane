@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/docplane/static/css/main.8aeb61b5.chunk.css",
+    "main.js": "/docplane/static/js/main.36c618a8.chunk.js",
+    "main.js.map": "/docplane/static/js/main.36c618a8.chunk.js.map",
+    "runtime~main.js": "/docplane/static/js/runtime~main.e181b236.js",
+    "runtime~main.js.map": "/docplane/static/js/runtime~main.e181b236.js.map",
+    "static/js/2.6bd3bc96.chunk.js": "/docplane/static/js/2.6bd3bc96.chunk.js",
+    "static/js/2.6bd3bc96.chunk.js.map": "/docplane/static/js/2.6bd3bc96.chunk.js.map",
+    "index.html": "/docplane/index.html",
+    "precache-manifest.c065dc5285e6f0250bf40db79602c3f6.js": "/docplane/precache-manifest.c065dc5285e6f0250bf40db79602c3f6.js",
+    "service-worker.js": "/docplane/service-worker.js",
+    "static/css/main.8aeb61b5.chunk.css.map": "/docplane/static/css/main.8aeb61b5.chunk.css.map",
+    "static/media/logo.svg": "/docplane/static/media/logo.8e5b345f.svg"
+  }
+}
